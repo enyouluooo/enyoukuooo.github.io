@@ -25,7 +25,7 @@ h1 .text-primary {
 .bg-primary {
 	
 	background-image: url("shattered-dark.png");
-	background-color: #1d9438!important;
+	background-color: #1d9438;
 }
 a {
 	color: #1d9438;
