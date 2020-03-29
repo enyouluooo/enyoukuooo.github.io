@@ -23,8 +23,9 @@ h1 .text-primary {
 	line-height: 3rem;
 }
 .bg-primary {
-	background-color: #1d9438!important;
+	
 	background-image: url("shattered-dark.png");
+	background-color: #1d9438!important;
 }
 a {
 	color: #1d9438;
