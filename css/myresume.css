@@ -14,8 +14,6 @@ h1, h2, h3, h4, h5, h6 {
 	letter-spacing: -0.05rem;
 }
 
-
-
 .text-primary {
 	color: #1d9438!important;
 }	
@@ -25,8 +23,8 @@ h1 .text-primary {
 	line-height: 3rem;
 }
 .bg-primary {
-	background-color: #1d9438!important;
-	background-image: url("img/otis-redding.png");
+	
+	background-image: url("shattered-dark.png");
 }
 a {
 	color: #1d9438;
