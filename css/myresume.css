@@ -23,9 +23,10 @@ h1 .text-primary {
 	line-height: 3rem;
 }
 .bg-primary {
-	
-	background-image: url("shattered-dark.png");
+	background-color: #1d9438!important;
 	background-color: #1d9438;
+	background-image: url("shattered-dark.png");
+	
 }
 a {
 	color: #1d9438;
